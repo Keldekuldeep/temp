@@ -6,7 +6,8 @@ class Demo
 		{
 			for(int j=0;j<5;j++)
 			{
-			System.out.println("* ");
+			System.out.println("Hello ");
+				System.out.println("Hello ");
 			}
 		}
 		
